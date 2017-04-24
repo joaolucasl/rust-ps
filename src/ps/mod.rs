@@ -1,3 +1,4 @@
+#[derive(PartialEq, Debug)]
 pub struct Process {
     pub pid: i64,
     pub ppid: i64,
